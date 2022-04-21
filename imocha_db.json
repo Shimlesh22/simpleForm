@@ -1,0 +1,19 @@
+[
+{"type":"header","version":"5.0.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"imocha"},
+{"type":"table","name":"api","database":"imocha","data":
+[
+{"id":"1","postcode":"35000","state_id":"Perak"},
+{"id":"2","postcode":"50000","state_id":"Kuala Lumpur"},
+{"id":"3","postcode":"80000","state_id":"Johor"}
+]
+}
+,{"type":"table","name":"form","database":"imocha","data":
+[
+{"id":"41","name":"Shimmalesh","dob":"1997-01-22","address":"No 43, Semenyih","postcode":"50000","state_id":"Kuala Lumpur"},
+{"id":"42","name":"Imocha","dob":"2022-04-20","address":"Mid Valley","postcode":"50000","state_id":"Kuala Lumpur"},
+{"id":"43","name":"Test","dob":"1999-11-18","address":"Ipoh","postcode":"35000","state_id":"Perak"},
+{"id":"44","name":"Completed","dob":"2022-04-21","address":"NO 10, North","postcode":"80000","state_id":"Johor"}
+]
+}
+]
